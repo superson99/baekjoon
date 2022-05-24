@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class stack_10828_ver2 {
+public class baekjoon_10828 {
 		
 	private static int arr_stack[];
 	private static int top = 0;
@@ -95,7 +95,7 @@ public class stack_10828_ver2 {
 	}
 
 	public static void main(String[] args) throws IOException{
-		new stack_10828_ver2().solution();
+		new baekjoon_10828().solution();
 	}
 	
 
